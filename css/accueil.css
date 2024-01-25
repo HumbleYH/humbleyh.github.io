@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+header {
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin: 20px 40px; 
+    background-color: white;
+}
