@@ -1,2 +1,2 @@
-# Minyth.github.io
+# minyth.github.io
 My web site for each person who want me
