@@ -41,11 +41,15 @@ li{
     display: inline-block;
 }
 
-a {
+.menu {
     padding: 5px 30px;
     margin: 10Px;
     text-decoration: none;
     /* background-color: white;
     border-radius: 10px;
     border: 5px solid black;*/
-} 
+}
+
+div {
+    margin: 10px;
+}

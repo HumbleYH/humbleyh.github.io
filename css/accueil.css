@@ -5,6 +5,12 @@ header {
     text-align: center;
     border: 5px solid black;
     border-radius: 40px;
-    margin: 20px 40px; 
+    margin: 20px 40px;
+    /* padding: 50px 80px; */
     background-color: white;
+}
+
+.containerProjet {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
