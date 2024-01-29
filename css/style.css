@@ -151,5 +151,18 @@ li{
       transform: translate(0);
     }
   }
-  
-  
+
+/*Classe spéciaux*/
+.card {
+  box-shadow: rgba(44,82,179, 0.56) 0px 22px 70px 4px;
+  transition: all 0.5s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card h1 {
+  font-size: 50px;
+  margin: 0 auto;
+}
