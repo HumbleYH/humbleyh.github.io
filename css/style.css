@@ -166,3 +166,12 @@ li{
   font-size: 50px;
   margin: 0 auto;
 }
+
+.card2 {
+  box-shadow: rgba(44,82,179, 0.56) 0px 22px 70px 4px;
+  transition: all 0.5s;
+}
+
+.card2:hover {
+  transform: scale(1.02);
+}

@@ -1,0 +1,115 @@
+/* 
+    CSS for the About Me page
+*/
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+/*container*/
+.container {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-gap: 50px;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top : 50px;
+}
+
+.container2 {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 0.6fr 1fr;
+    grid-gap: 50px;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.container3 {
+    text-align: center;
+    display: grid;
+    border-radius: 10px;
+    padding: 15px;
+}
+/*Spécial class*/
+.left {
+    padding-left: 5%;
+    text-align: left;
+}
+
+.centre {
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+/*Class*/
+.nom {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4E8397;
+    border-radius: 10px;
+}
+
+.description {
+    padding: 10px;
+    background-color: #B85042;
+    border-radius: 10px;
+}
+
+.workspace {
+    padding: 10px;
+    background-color: #4E8397;
+    border-radius: 10px;
+}
+
+.workspace p {
+    padding-left: 5%;
+    text-align: left;
+}
+
+.passionate {
+    height: fit-content;
+    padding: 10px;
+    background-color: #B85042;
+    border-radius: 10px;
+}
+
+.music {
+    padding: 10px;
+    background-color: #234E70;
+    border-radius: 10px;
+}
+
+.lesArtistes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.carte {
+    height: fit-content;
+    background-color: #4E8397;
+    border-radius: 10px;
+}
+
+.give {
+    padding: 10px;
+    background-color: #B85042;
+    border-radius: 10px;
+}
+
+.artiste {
+    margin: 20px;
+    padding: 10px;
+    background-color: #B85042;
+    border-radius: 10px;
+}
