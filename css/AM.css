@@ -80,6 +80,12 @@ img {
     border-radius: 10px;
 }
 
+.carte {
+    padding: 10px;
+    background-color: #4E8397;
+    border-radius: 10px;
+}
+
 .music {
     padding: 10px;
     background-color: #234E70;
@@ -93,12 +99,6 @@ img {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
-}
-
-.carte {
-    height: fit-content;
-    background-color: #4E8397;
-    border-radius: 10px;
 }
 
 .give {

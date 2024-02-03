@@ -1,3 +1,24 @@
+.left {
+    padding-left: 5%;
+    text-align: left;
+}
+
 .containerSource {
     text-align: center;
+}
+
+.nom {
+    margin-top: 50px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4E8397;
+    border-radius: 10px;
+}
+
+.source {
+    padding: 10px;
+    background-color: #B85042;
+    border-radius: 10px;
 }
