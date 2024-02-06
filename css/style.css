@@ -174,3 +174,11 @@ li{
 .card2:hover {
   transform: scale(1.02);
 }
+
+.card3 {
+  transition: all 0.5s;
+}
+
+.card3:hover {
+  transform: scale(1.4);
+}
