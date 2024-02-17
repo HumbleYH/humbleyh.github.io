@@ -48,6 +48,26 @@
 .invisible {
     display: none;
 }
+
+.training {
+    padding: 10px;
+    background-color: #B85042;
+    border-radius: 10px;
+}
+
+.needed{
+    padding: 10px;
+    background-color: #234E70;
+    border-radius: 10px;
+}
+
+.moy {
+    padding: 10px;
+    background-color: #4E8397;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+}
 /*Container*/
 .container {
     text-align: center;
@@ -57,4 +77,13 @@
     border-radius: 10px;
     padding: 15px;
     margin-top : 50px;
+}
+
+.container2 {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    border-radius: 10px;
+    padding: 15px;
 }
